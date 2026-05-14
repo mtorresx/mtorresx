@@ -7,4 +7,4 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,aws,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,postgresql,aws,docker,git,github,n8n)](https://github.com/LelouchFR/skill-icons)
