@@ -1,16 +1,27 @@
-## Hi there 👋
+# Miguel Torres Lourenço
 
-<!--
-**mtorresx/mtorresx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer in progress
 
-Here are some ideas to get you started:
+🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Estudando Java e Spring Boot
+
+🐘 Foco em PostgreSQL e modelagem de dados
+
+☁️ Explorando AWS e aplicações em nuvem
+
+🐳 Utilizando Docker no desenvolvimento de projetos
+
+🚀 Construindo projetos backend com foco em APIs, integrações e soluções escaláveis
+
+---
+
+### Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,github" />
+
+---
+
+### Contato
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/miguel-torres-lourenco-442310210)
